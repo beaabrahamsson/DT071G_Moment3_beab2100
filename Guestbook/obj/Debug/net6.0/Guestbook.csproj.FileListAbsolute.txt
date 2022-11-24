@@ -1,0 +1,15 @@
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\bin\Debug\net6.0\Guestbook.exe
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\bin\Debug\net6.0\Guestbook.deps.json
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\bin\Debug\net6.0\Guestbook.runtimeconfig.json
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\bin\Debug\net6.0\Guestbook.dll
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\bin\Debug\net6.0\Guestbook.pdb
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\Guestbook.csproj.AssemblyReference.cache
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\Guestbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\Guestbook.AssemblyInfoInputs.cache
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\Guestbook.AssemblyInfo.cs
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\Guestbook.csproj.CoreCompileInputs.cache
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\Guestbook.dll
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\refint\Guestbook.dll
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\Guestbook.pdb
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\Guestbook.genruntimeconfig.cache
+C:\Users\beaab\OneDrive\Dokument\Skola-Webbutvecklare\Kurs-C#\Moment3\Guestbook\Guestbook\obj\Debug\net6.0\ref\Guestbook.dll
